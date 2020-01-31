@@ -1,0 +1,34 @@
+PODS:
+  - audioplayer2 (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - system_shortcuts (0.0.1):
+    - Flutter
+  - volume (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - audioplayer2 (from `.symlinks/plugins/audioplayer2/ios`)
+  - Flutter (from `Flutter`)
+  - system_shortcuts (from `.symlinks/plugins/system_shortcuts/ios`)
+  - volume (from `.symlinks/plugins/volume/ios`)
+
+EXTERNAL SOURCES:
+  audioplayer2:
+    :path: ".symlinks/plugins/audioplayer2/ios"
+  Flutter:
+    :path: Flutter
+  system_shortcuts:
+    :path: ".symlinks/plugins/system_shortcuts/ios"
+  volume:
+    :path: ".symlinks/plugins/volume/ios"
+
+SPEC CHECKSUMS:
+  audioplayer2: f3c5971880df0476ba53abe7deb5a76570165994
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  system_shortcuts: fa91743cc51eed3811f5ea5461e23f972b9de780
+  volume: 8f8b305a8187ed55c4ee48bda614b8129c47f38e
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4
